@@ -5,8 +5,8 @@ Android Aplication for login dan register account to online database
 + this app's hosting https://androidauth.000webhostapp.com .
 + just import this repo then run.
 
-## Environtment
+## Environment
 
 - Android Transmitting Network Data Using Volley Library
-- web API using PHP Object Oriented Programming to Create JSON
+- Web API using PHP Object Oriented Programming to Create JSON
 - MariaDB / MySQL fo Database
